@@ -1,4 +1,4 @@
-# Odor Men Clothing - Purchasing Cloth's
+# [Odor Men Clothing](https://rajairfanahmed.github.io/odor-men-clothing/)
 
 This is a web project i created during my semester project.
 
