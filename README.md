@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/irfan-hue/Responsive-Product-Preview-Card-Component)
-- Live Site URL: [live site](https://irfan-hue.github.io/Responsive-Product-Preview-Card-Component)
+- Solution URL: [solution URL](https://github.com/rajairfanahmed/odor-men-clothing)
+- Live Site URL: [live site](https://rajairfanahmed.github.io/odor-men-clothing/)
 
 ### Built with
 
@@ -59,3 +59,4 @@ If you want more help with writing markdown, we'd recommend checking out [w3scho
 
 - Social Links - [@rajairfanahmed](https://linktr.ee/rajairfanahmed)
 - LinkedIn - [@rajairfanahmed](https://www.linkedin.com/in/rajairfanahmed/)
+
